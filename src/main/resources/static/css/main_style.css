@@ -1,0 +1,18 @@
+.logoutButton {
+    background: none;
+    border: none;
+    color: white;
+    font: inherit;
+    cursor: pointer;
+}
+
+.bookButton {
+    padding: 5px 5px;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
